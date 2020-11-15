@@ -1,9 +1,0 @@
-1.Title: Radio Users' music preferences
-
-2.Number of users: 19718
-
-3.Attributes information: 
-          1-user: user ID
-          2-artist: artist name
-          3-gender: user's gender (f-female,m-male)
-          4-country: user's country name
